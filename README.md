@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajeshkumarsethi&label=Profile%20views&color=0e75b6&style=flat" alt="rajeshkumarsethi" /> </p>
 
-<p align="left"> <a href="https://twitter.com/rajeshpython" target="blank"><img src="https://img.shields.io/twitter/follow/iamrksethi?logo=twitter&style=for-the-badge" alt="iamrksethi" /></a> </p>
+<p align="left"> <a href="https://twitter.com/rajeshpython" target="blank"><img src="https://img.shields.io/twitter/follow/iamrksethi?logo=twitter&style=for-the-badge" alt="rajeshpython" /></a> </p>
 
 - 🔭 I’m currently working on **Oracle Database**
 
