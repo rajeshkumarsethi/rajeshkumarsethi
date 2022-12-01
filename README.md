@@ -1,4 +1,4 @@
-[![MasterHead](https://training.uark.edu/_resources/images/hero-crash-course-data-science.jpg)](https://rishavchanda.io)
+[![MasterHead](https://training.uark.edu/_resources/images/hero-crash-course-data-science.jpg)](https://google.co.in)
 <h1 align="center">Hi 👋, I'm Rajesh Kumar</h1>
 <h3 align="center">A passionate Database Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif">
