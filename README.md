@@ -31,7 +31,7 @@
 **Rajesh's GitHub activity graph**
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajeshkumarsethi&show_icons=true&locale=en&theme=tokyonight" alt="rajeshkumarsethi" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajeshkumarsethi&show_icons=true&locale=en&layout=compact&theme=tokyonigh" alt="rajeshkumarsethi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajeshkumarsethi&show_icons=true&theme=tokyonight" alt="rajeshkumarsethi" /></p>
 
