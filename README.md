@@ -30,9 +30,9 @@
 
 [![Rajesh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rajeshkumarsethi&bg_color=e8ffd1&color=9e4c98&line=dd6503&point=403d3d&area=true&hide_border=true)](https://github.com/rajeshkumarsethi/graph)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajeshkumarsethi&show_icons=true&locale=en&layout=compact&theme=tokyonigh" alt="rajeshkumarsethi" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajeshkumarsethi&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rajeshkumarsethi" />&nbsp;</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajeshkumarsethi&show_icons=true&theme=tokyonight" alt="rajeshkumarsethi" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=rajeshkumarsethi&show_icons=true&theme=tokyonight" alt="rajeshkumarsethi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajeshkumarsethi&theme=tokyonight" alt="rajeshkumarsethi" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajeshkumarsethi&theme=tokyonight" alt="rajeshkumarsethi" />
 
