@@ -40,8 +40,7 @@
 </a>
 </p>
 
-<!--<p align="center">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajeshkumarsethi&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rajeshkumarsethi" />&nbsp;</p>-->
-<br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=rajeshkumarsethi&show_icons=true&theme=tokyonight" alt="rajeshkumarsethi" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajeshkumarsethi&theme=tokyonight" alt="rajeshkumarsethi" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=rajeshkumarsethi&show_icons=true&theme=tokyonight" alt="rajeshkumarsethi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajeshkumarsethi&theme=tokyonight" alt="rajeshkumarsethi" /></p>
 
+<p align="center">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajeshkumarsethi&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rajeshkumarsethi" />&nbsp;</p>
