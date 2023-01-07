@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Rajesh Kumar</h1>
 <h3 align="center">A passionate Database Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif">
-
+ 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajeshkumarsethi&label=Profile%20views&color=0e75b6&style=flat" alt="rajeshkumarsethi" /> </p>
 
 <p align="left"> <a href="https://twitter.com/rajeshpython" target="blank"><img src="https://img.shields.io/twitter/follow/rajeshpython?logo=twitter&style=for-the-badge" alt="rajeshpython" /></a> </p>
