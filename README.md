@@ -53,8 +53,9 @@
 </p>
 
 
-      <h2>📊 Github Stats and Activities</h2>
-
+<summary>
+  <h2>Github Stats and Activities</h2>
+  </summary>
    <h3>🔥 Streak Stats</h3>
    <!-- GitHub Readme Streak Stats - https://github.com/rajeshkumarsethi/rajeshkumarsethi -->
    <p>
