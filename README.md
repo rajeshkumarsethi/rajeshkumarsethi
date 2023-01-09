@@ -4,6 +4,22 @@
   <a href="https://github.com/rajeshkumarsethi/rajeshkumarsethi">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=Experienced+Oracle+PL%2FSQL+Developer;Aspiring+Data+Scientist+-+Python;Always+Learning+New+Things;10%2B+Years+of+Coding+Experience&center=true&width=500&height=45&vCenter=true&pause=1000&size=22" /></a>
 </p>
+
+<!-- Social icons section -->
+<p align="center">
+  <a href="https://www.youtube.com/@rajeshmadhucreations/"><img width="32px" alt="Youtube" title="Youtube" src="https://github.com/rajeshkumarsethi/rajeshkumarsethi/blob/main/images/youtube.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://twitter.com/rajeshpython"><img width="32px" alt="Twitter" title="Twitter" src="https://github.com/rajeshkumarsethi/rajeshkumarsethi/blob/main/images/twitter.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://fb.com/sethirajeshkumar" alt="Facebook" title="Facebook"><img width="32px" src="https://github.com/rajeshkumarsethi/rajeshkumarsethi/blob/main/images/facebook.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://linkedin.com/in/rajeshkumarsethi"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://github.com/rajeshkumarsethi/rajeshkumarsethi/blob/main/images/linkedin.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.instagram.com/rajeshksethi/"><img width="32px" alt="Instagram" title="Instagram" src="https://github.com/rajeshkumarsethi/rajeshkumarsethi/blob/main/images/instagram.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://stackoverflow.com/users/2706175"><img width="32px" alt="StackOverflow" title="Stack Overflow" src="https://github.com/rajeshkumarsethi/rajeshkumarsethi/blob/main/images/stack-overflow.png"/></a>
+</p>
+
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif">
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajeshkumarsethi&label=Profile%20views&color=0e75b6&style=flat" alt="rajeshkumarsethi" /> </p>
