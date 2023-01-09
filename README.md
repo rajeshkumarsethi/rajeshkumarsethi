@@ -2,7 +2,7 @@
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/rajeshkumarsethi/rajeshkumarsethi">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=Experienced+Oracle+PL%2FSQL+Developer;Aspiring+Data+Scientist+-+Python;Always+Learning+New+Things;10%2B+Years+of+Coding+Experience&center=true&width=500&height=45&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=Experienced+Oracle+PL%2FSQL+Developer;Aspiring+Data+Scientist;Always+Learning+New+Things;10%2B+Years+of+Coding+Experience&center=true&width=500&height=45&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 <!-- Social icons section -->
