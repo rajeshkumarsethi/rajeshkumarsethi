@@ -1,4 +1,4 @@
-<h3 align="center"> <font color="Turquoise">Hi 👋, I'm Rajesh Kumar Sethi</font></h3>
+<h3 align="center"> <font color="Turquoise">Hi 👋, I'm Rajesh Kumar Sethi </font></h3>
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/rajeshkumarsethi/rajeshkumarsethi">
