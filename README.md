@@ -87,7 +87,8 @@
    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Rajesh Kumar's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=rajeshkumarsethi&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=false&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
   <br/>
   <h3>📒 Top Languages</h3>
-   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Rajesh Kumar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshkumarsethi&langs_count=8&layout=compact&theme=tokyonight&hide_border=false&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+   <a href="https://github.com/rajeshkumarsethi/rajeshkumarsethi"><img alt="Rajesh Kumar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshkumarsethi&langs_count=8&layout=compact&theme=tokyonight&hide_border=false&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  
 
    <br/>
    <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
