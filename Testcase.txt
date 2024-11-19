@@ -5,11 +5,9 @@ CASE
             WHEN [Key] = 'INS' THEN 
                 CASE 
                     WHEN MATURITY_DATE_TEXT IN ('Perpetual', '31/12/9999') THEN 
-                        CASE 
-                            WHEN GRANDFATHERED_UNTIL IS NOT NULL THEN GRANDFATHERED_UNTIL
-                            ELSE NULL 
-                        END
-                    ELSE MREL_EFFECTIVE_NATURITY_DATE_INS 
+                        COALESCE(GRANDFATHERED_UNTIL, NULL)  -• Simplified to COALESCE
+                    ELSE 
+                        MREL_EFFECTIVE_NATURITY_DATE_INS 
                 END
             WHEN [Key] = 'CET1' THEN 
                 NULL
@@ -17,24 +15,10 @@ CASE
                 MATURITY_DATE_PP
             ELSE 
                 CASE 
-                    WHEN [Key] = 'INS' THEN 
-                        CASE 
-                            WHEN MATURITY_DATE_TEXT IN ('Perpetual', '31/12/9999') THEN 
-                                CASE 
-                                    WHEN BORROWER_ENTITY_GROUP_CODE = 'HGHQ' THEN 
-                                        CASE 
-                                            WHEN GRANDFATHERED_UNTIL IS NOT NULL THEN GRANDFATHERED_UNTIL
-                                            ELSE NULL 
-                                        END
-                                    ELSE NULL 
-                                END
-                            ELSE NULL 
-                        END
+                    WHEN MATURITY_DATE_TEXT IN ('Perpetual', '31/12/9999') AND BORROWER_ENTITY_GROUP_CODE = 'HGHQ' THEN 
+                        COALESCE(GRANDFATHERED_UNTIL, NULL)  -• Simplified to COALESCE
                     ELSE 
-                        CASE 
-                            WHEN GRANDFATHERED_UNTIL IS NOT NULL THEN GRANDFATHERED_UNTIL
-                            ELSE NULL 
-                        END
+                        COALESCE(GRANDFATHERED_UNTIL, NULL)  -• Simplified to COALESCE
                 END
         END
     WHEN [Key] = 'CET1' THEN 
