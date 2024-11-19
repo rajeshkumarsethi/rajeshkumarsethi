@@ -1,0 +1,44 @@
+
+CASE 
+    WHEN INTERNAL_OR_EXTERNAL = 'Internal' THEN 
+        CASE 
+            WHEN [Key] = 'INS' THEN 
+                CASE 
+                    WHEN MATURITY_DATE_TEXT IN ('Perpetual', '31/12/9999') THEN 
+                        CASE 
+                            WHEN GRANDFATHERED_UNTIL IS NOT NULL THEN GRANDFATHERED_UNTIL
+                            ELSE NULL 
+                        END
+                    ELSE MREL_EFFECTIVE_NATURITY_DATE_INS 
+                END
+            WHEN [Key] = 'CET1' THEN 
+                NULL
+            WHEN [Key] = 'PARI' THEN 
+                MATURITY_DATE_PP
+            ELSE 
+                CASE 
+                    WHEN [Key] = 'INS' THEN 
+                        CASE 
+                            WHEN MATURITY_DATE_TEXT IN ('Perpetual', '31/12/9999') THEN 
+                                CASE 
+                                    WHEN BORROWER_ENTITY_GROUP_CODE = 'HGHQ' THEN 
+                                        CASE 
+                                            WHEN GRANDFATHERED_UNTIL IS NOT NULL THEN GRANDFATHERED_UNTIL
+                                            ELSE NULL 
+                                        END
+                                    ELSE NULL 
+                                END
+                            ELSE NULL 
+                        END
+                    ELSE 
+                        CASE 
+                            WHEN GRANDFATHERED_UNTIL IS NOT NULL THEN GRANDFATHERED_UNTIL
+                            ELSE NULL 
+                        END
+                END
+        END
+    WHEN [Key] = 'CET1' THEN 
+        (SELECT HK_VALUE FROM YourTable WHERE [Key] = 'CET1' AND HK_ID = 'MREL EFFECTIVE MATURITY_CET')
+    WHEN [Key] = 'PARI' THEN 
+        MATURITY_DATE_PP
+END AS PREL_EFFECTIVE_MATURITY
